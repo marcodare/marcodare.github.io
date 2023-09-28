@@ -3,7 +3,9 @@ import Link from 'next/link'
 export default function IndexPage() {
   return (
     <div>
-      Hello World. <Link href="/about">About</Link>
+      Coming soon
+      
+      <Link href="/about-me">About Me</Link>
     </div>
   )
 }
