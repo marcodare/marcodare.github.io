@@ -25,7 +25,7 @@ export default function AboutMePage() {
         <div className="content">
           <div className="title-holder">
             <h1>Stay Tuned</h1>
-            <p>My Awesome Online Playground Coming Soon! </p><p>Shoot me an email if you're curious.</p>
+            <p>My Awesome Online Playground Coming Soon! </p><p>Shoot me an email if you&apos;re curious.</p>
           </div>
           <a href="mailto:marco@mrcdare.dev">
             <div className="cta">Contact me</div>
